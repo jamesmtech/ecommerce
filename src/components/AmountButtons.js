@@ -42,7 +42,3 @@ const Wrapper = styled.div`
 `;
 
 export default AmountButtons;
-
-function foo() {
-  // do nothing
-}
